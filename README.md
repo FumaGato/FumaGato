@@ -12,3 +12,5 @@ Taught my self how to code
 - CSS
 - Lua
 - Godot
+
+*better readme file soon (probably)
