@@ -1,6 +1,7 @@
 ## Hello
 Taught my self how to code
 
+- Beginner
 - 16
 - 5'7"
 - Indonesian (boo)
