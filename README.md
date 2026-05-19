@@ -15,3 +15,5 @@ Taught my self how to code
 - Godot
 
 *better readme file soon (probably)
+
+![](https://komarev.com/ghpvc/?username=FumaGato&color=brightgreen)
