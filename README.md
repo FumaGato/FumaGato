@@ -4,10 +4,10 @@ Taught my self how to code
 - Beginner
 - 16
 - 5'7"
-- Indonesian (boo)
+- Indonesian
 - Lowk stupid
 
-### My skill
+### What I learn so far
 - Python
 - HTML
 - CSS
