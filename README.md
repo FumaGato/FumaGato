@@ -3,9 +3,9 @@ Taught my self how to code
 
 - Beginner
 - 16
-- 5'7"
+- 5'7" / 170.4cm ('.4' was necessary)
 - Indonesian
-- Lowk stupid
+- Lowkey a chud
 
 ### What I learn so far
 - Python
