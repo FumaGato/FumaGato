@@ -7,7 +7,7 @@ Taught my self how to code
 - Indonesian
 - Lowkey a chud
 
-### What I learn so far
+### What I learn so far:
 - Python
 - HTML
 - CSS
